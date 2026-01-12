@@ -1,2 +1,11 @@
 pandas
 
+python
+
+numpy
+
+sqlite3
+
+docker
+
+terminal
